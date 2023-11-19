@@ -12,17 +12,17 @@
    <br>
 
    <p><strong>ii) Software Desenvolvido e Documentação de Código:</strong><br>
-    O software foi desenvolvido na Arduino IDE e o código-fonte está disponível na pasta "Código". A documentação detalhada do código pode ser encontrada no arquivo "Documentação_Código.md".</p>
+    O software foi desenvolvido na Arduino IDE e o código-fonte está disponível na pasta "projetoSemaforoArduino".</p>
 
    <br>
 
-   <p><strong>iii) Descrição do Hardware Utilizado:</strong><br>
+   <p><strong>iii) Descrição do Hardware Utilizado:</strong><br><br>
     <strong>Ferramentas:</strong><br>
     - Software Arduino IDE para programação.<br>
     - Placa Arduino (Arduino Uno R3 ou similar).<br>
     - Protoboard para conexões elétricas.<br>
     - Componentes eletrônicos, incluindo resistores e fios.<br>
-    - Acesso à internet para comunicação MQTT.<br>
+    - Acesso à internet para comunicação MQTT.<br><br>
     <strong>Materiais:</strong><br>
     - 3 LEDs RGB.<br>
     - 1 Botão de pedestre.<br>
@@ -35,7 +35,7 @@
    <br>
 
    <p><strong>iv) Documentação das Interfaces, Protocolos e Módulos de Comunicação:</strong><br>
-    O projeto utiliza o protocolo MQTT para comunicação e controle via internet (TCP/IP). Detalhes sobre as interfaces, protocolos e módulos de comunicação podem ser encontrados na documentação específica na pasta "Documentação".</p>
+    O projeto utiliza o protocolo MQTT para comunicação e controle via internet (TCP/IP).</p>
 
    <br>
 
